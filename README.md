@@ -1,6 +1,4 @@
-Giả Thuyết Logic Sinh Học Phi–Ngẫu Nhiên
-(The Non-Random Bio-Logic Hypothesis)
-Tác giả: Money Nguyễn (Nguyễn Đình Huy), Việt Nam, Trái Đất, 2025
+Giả Thuyết Logic Sinh Học Phi Ngẫu Nhiên (The Non-Random Bio-Logic Hypothesis) | Tác giả: Money Nguyễn (Nguyễn Đình Huy), Việt Nam, Trái Đất, 2025
 
 🧠 I. Mục tiêu học thuyết
 Phá vỡ tiền đề ngẫu nhiên trong thuyết tiến hóa cổ điển bằng việc kiến tạo một hệ lý luận:

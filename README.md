@@ -5,9 +5,9 @@
 ## 🧠 I. Mục tiêu của giả thuyết
 Phá vỡ tiền đề ngẫu nhiên trong thuyết tiến hóa cổ điển bằng việc kiến tạo một hệ lý luận:
 - DNA là framework lập trình sinh học có điều kiện.
-- Đột biến không tạo ra thông tin — chỉ làm thoái hoá thông tin (Mất hoặc sai lệch thông tin)
-- Không có biến đổi loài nếu không có module do (Coder siêu việt) lập trình từ trước.
-- Mọi biểu hiện sinh học đều là kết quả của hệ logic phản ứng có điều kiện.
+- Đột biến có hại trong thuyết tiến hoá không tạo ra thông tin — chỉ làm thoái hoá thông tin (Mất hoặc sai lệch thông tin)
+- Đột biến có lợi trong thuyết tiến hoá đều là kết quả của hệ logic phản ứng có điều kiện được Code sắn trong DNA.
+- Không có biến đổi loài nếu không có module chức năng biến đổi loài trong DNA do (Coder siêu việt) lập trình từ trước.
 
 ## 🧬 II. Tiên đề và hệ quả hình thức
 * ### 🔷 Tiên đề (Axioms)

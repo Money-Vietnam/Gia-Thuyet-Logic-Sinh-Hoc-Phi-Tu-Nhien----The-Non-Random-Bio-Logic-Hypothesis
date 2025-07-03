@@ -87,9 +87,9 @@ class DNA_Framework:
 
 📜 VI. Tuyên ngôn chính thức
 Hệ sự sống là framework lập trình phản ứng – chứ không phải cuộn xúc xắc phân tử.
-Đột biến không viết được hàm, chỉ gây lỗi hoặc bật nhánh (if/else) có sẵn.
-Một loài có DNA không có module chuyển loài → sẽ không bao giờ chuyển loài.
+Đột biến không viết được hàm, chỉ gây lỗi hoặc bật nhánh có sẵn (các mã điều kiện if/else được thoả mãn).
+Vật chủ có DNA không có module chuyển loài hoặc có nhưng không thoả điều kiện được kích hoạt → sẽ không bao giờ chuyển loài.
 Thông tin không phát sinh từ vật chất; nó được sinh ra từ ý thức.
-DNA là hệ điều hành sống – và chắc chắn không phải là sản phẩm của ngẫu nhiên.
+DNA là hệ điều hành sự sống vô cùng phức tạp – và chắc chắn không phải là sản phẩm của ngẫu nhiên.
 
 🖋 — Dev Money Nguyễn, 2025

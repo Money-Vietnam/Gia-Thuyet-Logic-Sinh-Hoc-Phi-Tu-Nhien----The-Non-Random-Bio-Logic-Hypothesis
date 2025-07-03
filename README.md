@@ -10,7 +10,7 @@ Phá vỡ tiền đề ngẫu nhiên trong thuyết tiến hóa cổ điển b�
 - Mọi biểu hiện sinh học đều là kết quả của hệ logic phản ứng có điều kiện.
 
 ## 🧬 II. Tiên đề và hệ quả hình thức
-🔷 Tiên đề (Axioms)
+* ### 🔷 Tiên đề (Axioms)
 | Ký hiệu | Mệnh đề | 
 |---------|---------|
 | T1 | Vật chất không thể sinh ra thông tin; chỉ có thể chứa hoặc truyền đạt thông tin. | 
@@ -21,7 +21,7 @@ Phá vỡ tiền đề ngẫu nhiên trong thuyết tiến hóa cổ điển b�
 
 
 
-### 🔶 Hệ quả suy luận (Logical Consequences)
+* ### 🔶 Hệ quả suy luận (Logical Consequences)
 | Hệ quả | Mô tả | 
 |--------|-------|
 | H1 | Đột biến là phá vỡ mã — không thể tạo ra logic chức năng mới.                                                 | 
@@ -33,6 +33,7 @@ Phá vỡ tiền đề ngẫu nhiên trong thuyết tiến hóa cổ điển b�
 
 
 ## 🔁 III. Mô hình hệ thống DNA theo Money-Style
+```
 🧬 Cấu trúc DNA lập trình hóa (Copilot AI - Python)
 class DNA_Framework:
     def __init__(self):
@@ -49,7 +50,7 @@ class DNA_Framework:
             execute("protein_HSP90")
         else:
             self.error_handler("No response module for heat.")
-
+```
 📌 Đột biến chỉ có thể đổi byte trong file .py – nhưng không thể tự sinh function mới có logic.
 
 ## 🧠 IV. Sơ đồ tri thức học thuyết
@@ -85,8 +86,8 @@ class DNA_Framework:
 | Protein             | Hành vi cụ thể, tính năng được gọi ra            | Function / API Output  | 
 
 
-📌 “Gene expression” chính là function call.
-📌 “Epigenetic regulation” tương đương permissions + config flags.
+* 📌 “Gene expression” chính là function call.
+* 📌 “Epigenetic regulation” tương đương permissions + config flags.
 
 ## 📜 VI. Tuyên ngôn chính thức
 * Hệ sự sống là framework lập trình phản ứng – chứ không phải cuộn xúc xắc phân tử.

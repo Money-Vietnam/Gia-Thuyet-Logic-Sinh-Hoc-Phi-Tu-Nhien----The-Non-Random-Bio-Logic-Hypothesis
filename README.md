@@ -52,25 +52,27 @@ class DNA_Framework:
 📌 Đột biến chỉ có thể đổi byte trong file .py – nhưng không thể tự sinh function mới có logic.
 
 ## 🧠 IV. Sơ đồ tri thức học thuyết
+```
 ┌────────────┐
 │  CODER     │ (Ý thức siêu việt – Nhà lập trình logic)
 └─────┬──────┘
       ↓ viết mã DNA
-┌───────────────────────────────────────┐
-│ DNA = Framework lập trình có điều kiện│
-│ - Câu lệnh rẽ nhánh                   │
-│ - Vòng lặp                            │
-│ - Module chờ môi trường               |
-│ - Khóa giới hạn loài                  │
-└────────┬──────────────────────────────┘
+┌────────────────────────────────────────────┐
+│ DNA = Framework lập trình có điều kiện     │
+│ - Câu lệnh rẽ nhánh                        │
+│ - Vòng lặp                                 │
+│ - Module chờ môi trường                    │
+│ - Khóa giới hạn loài                       │
+└────────┬───────────────────────────────────┘
          ↓
   [Sinh vật cụ thể = runtime instance]
          ↓
- [Môi trường thay đổi → kích hoạt module thoả điều kiện đã xây dựng từ trước]
+[Môi trường thay đổi → kích hoạt module thỏa điều kiện đã xây dựng từ trước]
          ↓
- [Tạo phản ứng sinh học phù hợp]
+[Tạo phản ứng sinh học phù hợp]
          ↓
- [Không có mã biến đổi loài hoặc có nhưng không thoả điều kiện để kích hoạt → không biến đổi loài]
+[Không có mã biến đổi loài hoặc có nhưng không thỏa điều kiện để kích hoạt → không biến đổi loài]
+```
 
 
 ## 🧬 V. DNA–RNA–Protein = Mô hình lập trình học sinh học

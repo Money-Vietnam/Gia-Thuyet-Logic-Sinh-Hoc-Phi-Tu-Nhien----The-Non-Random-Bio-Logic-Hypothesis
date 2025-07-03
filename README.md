@@ -56,12 +56,12 @@ class DNA_Framework:
 │  CODER     │ (Ý thức siêu việt – Nhà lập trình logic)
 └─────┬──────┘
       ↓ viết mã DNA
-┌────────────────────────────────────────┐
+┌───────────────────────────────────────┐
 │ DNA = Framework lập trình có điều kiện│
 │ - Câu lệnh rẽ nhánh                   │
 │ - Vòng lặp                            │
-│ - Module chờ môi trường              │
-│ - Khóa giới hạn loài                 │
+│ - Module chờ môi trường               |
+│ - Khóa giới hạn loài                  │
 └────────┬──────────────────────────────┘
          ↓
   [Sinh vật cụ thể = runtime instance]

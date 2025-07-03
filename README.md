@@ -48,7 +48,6 @@ class DNA_Framework:
         else:
             self.error_handler("No response module for heat.")
 
-
 📌 Đột biến chỉ có thể đổi byte trong file .py – nhưng không thể tự sinh function mới có logic.
 
 🧠 IV. Sơ đồ tri thức học thuyết
@@ -72,7 +71,6 @@ class DNA_Framework:
          ↓
  [Không có mã biến đổi loài hoặc có nhưng không thoả điều kiện để kích hoạt → không biến đổi loài]
 
-
 
 🧬 V. DNA–RNA–Protein = Mô hình lập trình học sinh học
 | Thành phần sinh học | Vai trò hệ thống                                 | Tương đương kỹ thuật   | 

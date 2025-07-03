@@ -7,7 +7,7 @@ Phá vỡ tiền đề ngẫu nhiên trong thuyết tiến hóa cổ điển b�
 - DNA là framework lập trình sự sống có điều kiện.
 - Đột biến có hại trong thuyết tiến hoá không tạo ra thông tin — chỉ làm thoái hoá thông tin (Mất hoặc sai lệch thông tin)
 - Đột biến có lợi trong thuyết tiến hoá đều là kết quả của hệ logic phản ứng có điều kiện được Code sắn trong DNA.
-- Không có biến đổi loài nếu không có module chức năng biến đổi loài trong DNA do (Coder siêu việt) lập trình từ trước.
+- Không có biến đổi loài nếu không có module chức năng biến đổi loài trong DNA do Coder (siêu việt) lập trình từ trước.
 
 ## 🧬 II. Tiên đề và hệ quả hình thức
 * ### 🔷 Tiên đề (Axioms)
@@ -73,7 +73,7 @@ class DNA_Framework:
          ↓
 [Tạo phản ứng sinh học phù hợp]
          ↓
-[Không có mã biến đổi loài hoặc có nhưng không thỏa điều kiện để kích hoạt → không biến đổi loài]
+[Không có module biến đổi loài hoặc có nhưng không thỏa điều kiện để kích hoạt → không biến đổi loài]
 ```
 
 

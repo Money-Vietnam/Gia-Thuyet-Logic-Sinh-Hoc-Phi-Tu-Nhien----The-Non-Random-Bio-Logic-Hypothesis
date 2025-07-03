@@ -22,7 +22,8 @@ Phá vỡ tiền đề ngẫu nhiên trong thuyết tiến hóa cổ điển b�
 
 
 ### 🔶 Hệ quả suy luận (Logical Consequences)
-| Hệ quả | Mô tả                                                                                                     | 
+| Hệ quả | Mô tả | 
+|--------|-------|
 | H1 | Đột biến là phá vỡ mã — không thể tạo ra logic chức năng mới.                                                 | 
 | H2 | Mọi thích nghi/sự thay đổi là sản phẩm của nhánh logic có sẵn được kích hoạt khi thoả mãn điều kiện cho trước.| 
 | H3 | DNA không có module chuyển loài → loài không thể biến đổi, bất chấp thời gian và số lượng thế hệ con cháu.    |
@@ -88,10 +89,10 @@ class DNA_Framework:
 📌 “Epigenetic regulation” tương đương permissions + config flags.
 
 ## 📜 VI. Tuyên ngôn chính thức
-Hệ sự sống là framework lập trình phản ứng – chứ không phải cuộn xúc xắc phân tử.
-Đột biến không viết được hàm, chỉ gây lỗi hoặc bật nhánh có sẵn (các mã điều kiện if/else được thoả mãn).
-Vật chủ có DNA không có module chuyển loài hoặc có nhưng không thoả điều kiện được kích hoạt → sẽ không bao giờ chuyển loài.
-Thông tin không phát sinh từ vật chất; nó được sinh ra từ ý thức.
-DNA là hệ điều hành sự sống vô cùng phức tạp – và chắc chắn không phải là sản phẩm của ngẫu nhiên.
+* Hệ sự sống là framework lập trình phản ứng – chứ không phải cuộn xúc xắc phân tử.
+* Đột biến không viết được hàm, chỉ gây lỗi hoặc bật nhánh có sẵn (các mã điều kiện if/else được thoả mãn).
+* Vật chủ có DNA không có module chuyển loài hoặc có nhưng không thoả điều kiện được kích hoạt → sẽ không bao giờ chuyển loài.
+* Thông tin không phát sinh từ vật chất; nó được sinh ra từ ý thức.
+* DNA là hệ điều hành sự sống vô cùng phức tạp – và chắc chắn không phải là sản phẩm của ngẫu nhiên.
 
 # 🖋 — Dev Money Nguyễn, 2025

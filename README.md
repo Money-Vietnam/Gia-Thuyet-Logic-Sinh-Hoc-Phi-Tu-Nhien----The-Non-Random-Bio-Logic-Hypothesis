@@ -1,15 +1,15 @@
-Giả Thuyết Logic Sinh Học Phi Ngẫu Nhiên (The Non-Random Bio-Logic Hypothesis)
+#Giả Thuyết Logic Sinh Học Phi Ngẫu Nhiên (The Non-Random Bio-Logic Hypothesis)
 
 Tác giả: Money Nguyễn (Nguyễn Đình Huy), Việt Nam, Trái Đất, 2025
 
-🧠 I. Mục tiêu của giả thuyết
+##🧠 I. Mục tiêu của giả thuyết
 Phá vỡ tiền đề ngẫu nhiên trong thuyết tiến hóa cổ điển bằng việc kiến tạo một hệ lý luận:
 - DNA là framework lập trình sinh học có điều kiện.
 - Đột biến không tạo ra thông tin — chỉ làm thoái hoá thông tin (Mất hoặc sai lệch thông tin)
 - Không có biến đổi loài nếu không có module do (Coder siêu việt) lập trình từ trước.
 - Mọi biểu hiện sinh học đều là kết quả của hệ logic phản ứng có điều kiện.
 
-🧬 II. Tiên đề và hệ quả hình thức
+##🧬 II. Tiên đề và hệ quả hình thức
 🔷 Tiên đề (Axioms)
 | Ký hiệu | Mệnh đề | 
 | T1 | Vật chất không thể sinh ra thông tin; chỉ có thể chứa hoặc truyền đạt thông tin. | 
@@ -20,7 +20,7 @@ Phá vỡ tiền đề ngẫu nhiên trong thuyết tiến hóa cổ điển b�
 
 
 
-🔶 Hệ quả suy luận (Logical Consequences)
+###🔶 Hệ quả suy luận (Logical Consequences)
 | Hệ quả | Mô tả                                                                                                     | 
 | H1 | Đột biến là phá vỡ mã — không thể tạo ra logic chức năng mới.                                                 | 
 | H2 | Mọi thích nghi/sự thay đổi là sản phẩm của nhánh logic có sẵn được kích hoạt khi thoả mãn điều kiện cho trước.| 
@@ -30,7 +30,7 @@ Phá vỡ tiền đề ngẫu nhiên trong thuyết tiến hóa cổ điển b�
 
 
 
-🔁 III. Mô hình hệ thống DNA theo Money-Style
+##🔁 III. Mô hình hệ thống DNA theo Money-Style
 🧬 Cấu trúc DNA lập trình hóa (Copilot AI - Python)
 class DNA_Framework:
     def __init__(self):
@@ -50,7 +50,7 @@ class DNA_Framework:
 
 📌 Đột biến chỉ có thể đổi byte trong file .py – nhưng không thể tự sinh function mới có logic.
 
-🧠 IV. Sơ đồ tri thức học thuyết
+##🧠 IV. Sơ đồ tri thức học thuyết
 ┌────────────┐
 │  CODER     │ (Ý thức siêu việt – Nhà lập trình logic)
 └─────┬──────┘
@@ -72,8 +72,9 @@ class DNA_Framework:
  [Không có mã biến đổi loài hoặc có nhưng không thoả điều kiện để kích hoạt → không biến đổi loài]
 
 
-🧬 V. DNA–RNA–Protein = Mô hình lập trình học sinh học
-| Thành phần sinh học | Vai trò hệ thống                                 | Tương đương kỹ thuật   | 
+##🧬 V. DNA–RNA–Protein = Mô hình lập trình học sinh học
+| Thành phần sinh học | Vai trò hệ thống | Tương đương kỹ thuật | 
+|---------------------|------------------|----------------------|
 | DNA                 | Mã lõi gốc, bất biến, mã hóa toàn hệ thống       | OS (Operating System)  | 
 | RNA                 | Mã trung gian được dịch động, thực thi tạm thời  | RAM / Thread Buffer    | 
 | Ribosome            | Cơ quan dịch mã, đọc & build protein             | Compiler + CPU         | 
@@ -83,11 +84,11 @@ class DNA_Framework:
 📌 “Gene expression” chính là function call.
 📌 “Epigenetic regulation” tương đương permissions + config flags.
 
-📜 VI. Tuyên ngôn chính thức
+##📜 VI. Tuyên ngôn chính thức
 Hệ sự sống là framework lập trình phản ứng – chứ không phải cuộn xúc xắc phân tử.
 Đột biến không viết được hàm, chỉ gây lỗi hoặc bật nhánh có sẵn (các mã điều kiện if/else được thoả mãn).
 Vật chủ có DNA không có module chuyển loài hoặc có nhưng không thoả điều kiện được kích hoạt → sẽ không bao giờ chuyển loài.
 Thông tin không phát sinh từ vật chất; nó được sinh ra từ ý thức.
 DNA là hệ điều hành sự sống vô cùng phức tạp – và chắc chắn không phải là sản phẩm của ngẫu nhiên.
 
-🖋 — Dev Money Nguyễn, 2025
+#🖋 — Dev Money Nguyễn, 2025

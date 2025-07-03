@@ -66,11 +66,11 @@ class DNA_Framework:
          ↓
   [Sinh vật cụ thể = runtime instance]
          ↓
- [Môi trường thay đổi → kích hoạt module]
+ [Môi trường thay đổi → kích hoạt module thoả điều kiện đã xây dựng từ trước]
          ↓
  [Tạo phản ứng sinh học phù hợp]
          ↓
- [Không có mã biến đổi → không tiến hóa loài]
+ [Không có mã biến đổi loài hoặc có nhưng không thoả điều kiện để kích hoạt → không biến đổi loài]
 
 
 
